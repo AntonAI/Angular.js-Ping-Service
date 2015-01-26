@@ -22,3 +22,4 @@ angular.module('pingService', [])
             ping: ping
         };
     });
+	
