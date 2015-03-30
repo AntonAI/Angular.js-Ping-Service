@@ -9,7 +9,7 @@ An Angular.js module that pings a specified URL or IP using an HTTP GET request.
 ## Usage
 From your controller(s):
 ```bash
-ping.ping(testURL, function(response){
+ping.ping(testURL, function(response) {
   if (response > 0) {
     // Ping successful
   } else {
