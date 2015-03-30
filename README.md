@@ -1,4 +1,4 @@
-# Angular.js-Ping
+# Angular.js Ping Service
 An Angular.js module that pings a specified URL or IP using an HTTP GET request.
 
 ## Installation
