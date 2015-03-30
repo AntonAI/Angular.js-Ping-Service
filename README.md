@@ -17,4 +17,4 @@ ping.ping(testURL, function(response) {
   }
 });
 ```
-If ping was successful, callback will return the time in took to reach the testURL in seconds (ex. 3.24). If ping failed, callback will return 0.
+If ping was successful, callback will return the time it took to reach the testURL in seconds (ex. 3.24). If ping failed, callback will return 0.
